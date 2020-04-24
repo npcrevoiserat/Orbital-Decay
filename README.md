@@ -7,6 +7,4 @@ The player directs a vessel’s acceleration, deceleration, and direction. These
 This is a class project at CSU Chico, course CAGD 370. It is intended to teach the agile development process along with pre-production development.
 
 # Authors
-Nathaniel Crevoiserat (Project Lead)
-Miles Gomez (Programmer)
-Ben Smith (Level Designer)
+Nathaniel Crevoiserat (Project Lead), Miles Gomez (Programmer), Ben Smith (Level Designer)
